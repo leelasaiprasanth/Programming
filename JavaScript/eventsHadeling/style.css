@@ -1,0 +1,26 @@
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}
+
+.green {
+  background-color: seagreen;
+  color: aliceblue;
+}
+
+.purple {
+  background-color: purple;
+  color: yellow;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  background-color: tomato;
+}
