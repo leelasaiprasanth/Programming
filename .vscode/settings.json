@@ -1,0 +1,8 @@
+{
+  "workbench.colorCustomizations": {
+    "[Material Theme Darker High Contrast]": {}
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.tree.indent": 4,
+  "codeium.aggressiveShutdown": true
+}
